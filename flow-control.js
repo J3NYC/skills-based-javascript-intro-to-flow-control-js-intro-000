@@ -3,7 +3,7 @@ function basicTeenager(age) {
   return "You are a teenager!";
 }
 }
-basicTeenager()
+basicTeenager(13)
 
 
 function teenager(age) {
